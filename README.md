@@ -1,4 +1,4 @@
-# 📚 Estudos de HTML5 - Página Informativa (Light Novel)
+# 📚 Estudos de HTML5 - Página Informativa (Web Novel chinesa)
 
 Este é o meu primeiro projeto prático no mundo do desenvolvimento web! Desenvolvi uma página informativa sobre a light novel **Demonic Emperor**, focando na aplicação dos conceitos fundamentais do HTML5.
 
